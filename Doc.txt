@@ -3,3 +3,5 @@ myfirst line
 1 line from firstbranch
 
 1 line from secondbranch
+
+1 line from third branch
